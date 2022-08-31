@@ -19,10 +19,10 @@
 <a href="google.com">
   <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://jitesh-sirohi.vercel.app" />
 </a>
-<a title="@gmail.com" href="mailto:1995sirohis@gmail.com">
+<a title="armanrajput992@gmail.com" href="armanrajput992@gmail.com">
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="1995sirohis@gmail.com" />
 </a>
-<a href="https://www.linkedin.com/in/jitesh-sirohi-ba4636136/">
+<a href="">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/jitesh-sirohi-ba4636136/" />
 </a>
 
