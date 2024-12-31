@@ -40,6 +40,8 @@
 <code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/npm.png"></code>
 <code><img height="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/mysql.png"></code>
+
 
 ---
 
